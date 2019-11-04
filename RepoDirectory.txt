@@ -1,0 +1,724 @@
+INNIO Controls Repository Directory
+-----------------------------------
+Beta Revision 0.1, 04.11.2019: 155 Repositories
+(unsorted, repositories in order of latest commit)
+____________________________________
+
+
+Release_XT4_V4010x 
+SVN Takeover 
+
+
+Development_XT3_350_NOx Private 
+NOx Sensor Update Package development for old XT3 engines
+
+
+
+Release_Aggreko_V403_TagV23 Private
+Modular_SW Customer Release former version V23 
+
+
+
+Release_Aggreko_V403_TagV24 Private
+Modular_SW Customized Release Version for Aggreko 
+
+
+
+TP_TestBench19 Private
+Jenbacher Technology J624 engine test bench no.19 software sourcecode 
+
+
+
+Release_XT3_V3020x Private
+SVN Takeover 
+
+
+
+Release_XT3_V3050x Private
+SVN Backup 
+
+
+
+TP_TestBench_SAFI_Test_Rig Private
+TP Testbench intern SVN Takeover 
+
+
+
+TestBench_Ronja_U433ST Private 
+
+
+
+TestBench_Ronja_U433 Private
+SVN takeover Ronja 
+
+
+
+Release_XT4_V408x Private 
+
+
+
+TP_TestBench_InselWid Private
+SVN Takeover testbench island load control 
+
+
+
+TP_TestBench_A1_Regelenergie Private
+SVN Takeover A1 Regelenergie 
+
+
+
+TP_TestBench_Gaswarnanlage Private
+SVN Takeover TPSS intern TestBench_Gaswarnanlage. 
+
+
+
+dp_ctrl_g2 Private
+ESM2 Development Repository 
+
+
+
+NTI_Hybrid Private 
+
+
+
+Release_XT4_V407xx Private
+DIA.NE XT4 Release 4.07.xx 
+
+
+
+Modular_SW_trunk Private
+This _trunk should be the MAIN SW DEVELOPMENT PATH for Jenbacher Engine Controls 
+
+
+
+Controls-Repository-Management Private
+Information about Jenbacher/Waukesha repository management (rules, training, tools,SVN migration, ....) 
+
+
+myPlant_Analytics Private
+Using myPlant API via Matlab to analyze field data 
+
+
+
+PilotEngines_X262_BMW_Dingolfing Private
+SVN Takeover with history struggles due to ilegal characters in repo name 
+
+
+
+PilotEngines_X263_BMW_Dingolfing_M05 Private
+SVN Takeover from X263 BMW Dingolfing 
+
+
+
+CCPressure_Decorr Private
+Crank case pressure decorrelation 
+
+
+
+PilotEngines_Y647_Merheim_MasterSy Private
+Pilot J920 
+
+
+
+PilotEngines_Y647_Merheim_SafetyPLC Private
+SVN Takeover Pilot Engine 
+
+
+
+ESM2 HMI Repository 
+HTML
+
+
+GitDemo Private
+Git demo to mess around 
+
+
+PilotEngines_SVN_Takeover Private
+SVN Takeover of TP-internal development versions for prototype engine software 
+
+
+
+MasterSY_BusMaster Private
+SVN Takeover BusMaster Branch from MasterSY Repository 
+
+
+
+MasterSY_Branches Private
+Pilot Plant Installations for MasterSY 
+
+
+
+PilotEngines_U778_BMW_Dingolfing_M1_4 Private
+Pilot Engines from SVN 
+
+
+
+MasterSY_Tags Private 
+Release Tags for MasterSY
+
+
+
+Modular_SW_Basisupdates_Development Private
+Modulare_SW repository for continous improvments 
+
+
+ValveFractureMonitoring Private
+MATLAB
+
+
+wed_rmd Private
+WED Remote Monitoring & Diagnostics 
+
+
+
+gej_type9_knk Private
+J920 Redundant Knock 
+
+
+
+Release_XT4_V402xx Private
+SVN Tag takeover 
+
+
+
+Release_XT4_V4011x Private
+SVN TAG takeover 
+
+
+
+Matlab_Tools Private
+Matlab based tools used for control development and data analysis 
+MATLAB
+
+
+Gen2 Private
+Gen2 
+MATLAB
+
+
+Leanox_Plus Private
+Leanox closed loop NOx controller 
+MATLAB
+
+
+Gen2_v4 Private 
+
+
+Gen2_v3 Internal
+new attempt to migrate tags as well 
+
+
+PilotEngines_Y436_CYS06_AS4_5_PPC3100 Private
+SVN Takeover Data Center Engine 
+
+
+PilotEngines_Y436_CYS06_AS4_5 Private
+SVN Takeover DataCenter Engine 
+
+
+TP_TestBench02 Private
+Jenbacher Technology J612 engine test bench no.02 software 
+
+
+
+PilotEngines_U779_BMW_Muenchen_1_1 Private
+SVN Takeover Pilot Software 
+
+
+
+PilotEngines_V008_BMW_Muenchen_1_50 Private
+SVN Import PilotEngines_V008_BMW_Muenchen_1_5 
+
+
+
+PilotEngines_G945_Rosenheim Private
+SVN Takeover 
+
+
+
+PilotEngines_U781_BMW_Landshut Private
+Pilot Engine from SVN 
+
+
+
+PilotEngines_T842_GHKW_Kiel Private
+Pilot Engine with SVN Takeover 
+
+
+PilotEngine_Template Private template
+TP-internal development versions for prototype engine software 
+
+
+TEC_XT5_0 Private
+Test rpository for GitHub tests using trunk SW 
+
+
+
+Development_TP_int2 Private
+Prepared empty repository for TP internal development projects 
+
+
+Development_TP_intern Private template
+Prepared empty repository for TP internal development projects 
+
+
+X616Controls-RB Private
+X616 Diesel Engine Control 
+
+
+
+Release_XT4_V4001x Private
+SVN takeover 
+
+
+
+Release_XT4_V4002x Private
+SVN Tag 
+
+
+
+rmd_arwin_proj Private
+Wauesha Data Collector PLC Code 
+
+
+
+dp_ctrl_sys_pro Private
+Controls Development Processes 
+
+
+
+gew_jnoxr Private
+Waukesha jNOx-R 
+
+
+G2_releases Private 
+ESM2 Releases
+
+
+gew_fafs Private
+Waukesha FAFS - Full Authority Fuel System Control 
+
+
+
+Release_XT4_V400xx Private
+SVN Tags takeover 
+
+
+
+gew_afr2 Private
+Waukesha AFR2 Supplemental Control 
+
+
+
+Release_XT4_V4012x Private
+SVN Tag takeover 
+
+
+
+Release_XT4_V4013x Private
+SVN takeover V4.01.3.0 
+
+
+
+Release_XT4_V4014x Private
+SVN Tag Release_XT4_V4014 reconstructed 
+
+
+
+Release_XT4_V404xx Private 
+
+
+
+Release_XT4_V403xx Private
+Takeover from SVN Tag 
+
+
+
+Release_XT4_V405xx Private
+takeover from SVN TAG 
+
+
+
+TP_TestBench_HistoricBranches Private
+SVN Archive Takeover from TP Repository - BRANCHES ONLY 
+
+
+
+TP_TestBench_TAGS_Backup Private
+Backup Repository with older SVN content for reference (read only) 
+
+
+
+INNIO_Startpage 
+whereto 
+
+
+TP_TestBench11 Private
+Component Test Bench 
+
+
+
+TP_TestBench04 Private
+Jenbacher Technology J316 engine test bench no.04 software 
+
+
+
+TP_TestBench20 Private
+Jenbacher Technology J920 engine test bench no.20 software sourcecode 
+
+
+
+DirectAirInjection Private 
+HTML
+
+
+REPSM Private
+Requisition Engine Production Software Management 
+
+
+
+TP_TestBench08 Private 
+
+
+
+Customer-Bus-Tester Private 
+
+
+
+Sps2PCLite Private
+Source code for SPS2PCLite tool. 
+
+
+
+IMEP_based_FrictionMonitoring Private
+Indicated Mean Effective Pressure based Friction Monitoring 
+
+
+
+TP_TestBench21 Private
+Testbench J920 additional - also for series engines BR9 
+
+
+TP_TestBench18 Private
+empty- prepared 
+
+
+TP_TestBench17 Private
+prepared- EMPTY 
+
+
+TP_TestBench01 Private
+Jenbacher Technology J420 engine test bench no.01 software 
+
+
+
+TP_TestBench03 Private
+Jenbacher Technology J412 engine test bench no.03 software 
+
+
+
+TP_TestBench07 Private 
+
+
+
+Aggreko_AS4_1_Development_V25 Private
+Aggreko V25 DevelopmentVersions Based on V4.07.x, Automation Studio 4.1 
+
+
+
+LambdaGradientMonitoring Private
+Lambda gradient monitoring to detect friction increase 
+
+
+gew_nox Private 
+
+
+
+DianeWin_Tools Private 
+Visual Basic
+
+
+TP_WinMOD_DGS32 Private
+'Digital Gen Set' DGS32 source code for AS and WinMOD 
+
+
+
+TP_WinMOD_DGS31 Private
+'Digital Gen Set' DGS31 source code for AS and WinMOD 
+
+
+
+SAFI2_Documentation Private 
+
+
+DIA.NE-XT4-Issues Private 
+
+
+ProPack_Installer Private
+ProPack Installer 
+
+
+
+ProPack Private
+ProPack tool 
+
+
+
+TP_WinMOD_DGS33 Private
+'Digital Gen Set' DGS33 source code for AS and WinMOD 
+
+
+DianeWin_SetupConsole Private
+DIA.NE WIN Setup Console 
+
+
+
+DianeWin_TemplateRepo Private template
+Repo copy template for TPSS DiaNe Visu Team 
+
+
+TP_TestBench_Template Private template
+Repo copy template for TPSS Testbench Team 
+
+
+FastSync Private
+Fast synchronization using skipfire 
+
+
+
+DianeWin_JavaFreeUpdateTool Private
+Update tool for DIA.NE WIN to remove Java dependencies 
+
+
+
+LambdaCtrl Private
+Lambda feedback controller, estimation based on pressure 49°CA before and after top dead center 
+
+
+
+DianeWin_Server Private
+dianewin backup from SVN repository 
+
+
+
+DianeWin_HMI Private
+#2 
+
+
+
+Release_XT4_V406x Private 
+
+
+
+H23MorisTester Internal
+Original AS SW for the Moris Tester used in assembly line building H23 
+
+
+
+Aggreko_HistoricBranches Private
+SVN Archive Takeover from TP Repository - V24 BRANCH 
+
+
+
+SAFI2_ReleaseCode Private 
+
+
+
+MasterSY Private
+AS Project for Jenbacher Master Synch 
+
+
+
+TPSS_WinMOD Private
+TPSS_WinMOD 
+
+
+jenctrlstools Private
+jenctrlstools backup from SVN 
+
+
+ESC Private
+Emissions supervisory Controller 
+
+
+
+MultiEngine_MasterController Private 
+
+
+
+HCO_delivered_Sourcecode Private 
+
+
+
+TP_TestBench05 Private
+Jenbacher Technology engine test bench no.05 software 
+
+
+
+CoolingSignals Private 
+
+
+
+HiL_Bangalore Private 
+
+
+Modular_SW_DevelopmentVersions Private 
+
+
+
+TP_TestBench_DevelopmentVersions Private
+OpenGE- SVN takeover of former TestBench Repository with full history 
+
+
+esm2prog Private 
+
+
+Gen2_J920 Private
+Gen2 controller used in J920 engines (status XT4.08) 
+
+
+
+IdleFrictionMonitoring Private
+Friction monitorin in idle mode 
+
+
+OilSplashMonitoring Private
+Conrod bearing monitoring based on oil splash temperature 
+
+
+
+CCPressure_Mon Private
+Crank case pressure monitoring 
+
+
+
+D616_Controls_SW Private
+D616 software tools and design documentation 
+
+
+
+LoadDistributionLine Private
+Simulation environment for load distribution line 
+
+
+
+Lambda_Adaption_T6 Private
+Lambda Adaption for J6 engines 
+
+
+GridSimulation Private
+evelopment of mean value engine models (MVEM) and compilation to DLL. This dll will be used in DIgSILENT for grid simulation. 
+
+
+
+UltraFastGasEngine_controls Private
+Control developement for gas engine with eCompressor. File formats: words, excel, powerpoint, matlab/simulink 
+
+
+
+JB_X_CLEAN Private
+JB-X-Clean. R&D for ICE Dual Fuel Controls 
+
+
+
+SAFI_Diagnostic_Tool Private
+Tool for communicating with SAFI device via CAN interface and provide the functionality of parameter configuration, Measurement Data, Trending, Standard control for Activation or DeActivation of functionality, etc. 
+
+
+
+Fuel_Dynamics_Control Private
+Model-based fuel controller for pre-mixed Jenbacher gas engines. 
+
+
+
+BFG_Controls Private
+Engine control software for Blast Furnace Gas application. 
+
+
+
+dualFuelControl_MVP90 Private
+Control development for dual fuel operation with 90% gas. 
+
+
+
+PFPDR Private
+Peak Fire Pressure Detecion Run 
+
+
+
+SteadyState Private
+Engine steady state detection 
+
+
+
+Valve_Closure_Detection Private
+Valve closure detection 
+
+
+
+IP_EGTCtr Private
+Ignition timing point offset based on exhaust gas temperature 
+
+
+
+Surge_Prevention Private
+Turbo charger surge prevention 
+
+
+
+TCSpdCtrl Private
+Turbo charger speed control 
+
+
+
+MVEM_Library Private
+Mean value engine model library 
+
+
+
+Start_Lambda Private
+Lambda during speed ramp 
+
+
+LEANOX_WG_Comp Private
+LEANOX wastegate compensation 
+
+
+
+SAFI2_Proprietary_Code Private
+Project collects all the firmware/proprietary related to SAFI2 engine control 
+
+
+
+SlowDownTime Private
+Slow down time calculation 
+
+
+
+SimPID Private
+PID controller implemented in Simulink used in AutomationStudio 
+
+
+0 Updated on Oct 2 
+PressureBasedControl Private
+Pressure Based Control for engines with cylinder pressure sensor (hirarchy contoller, MFB50, PFP Integrator) 
+
+
+
+J920_islandOld Private 
+
+
+
+SCR_Ctrl Private
+SCR (Selective Catalytic Reduction) Controller 
+
+
+
+EngineExplorer Private
+Tool to read data from Diane to Matlab 
+
+
+
+Service_Software_Configurator Private
+A Tool for easy editing Hardware configuration of DIANE XT-4 Control Software 
+
