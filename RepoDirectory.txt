@@ -4,6 +4,15 @@ Beta Revision 0.1, 04.11.2019: 155 Repositories
 (unsorted, repositories in order of latest commit)
 ____________________________________
 
+PilotEngine_M406_Acea_Tordivalle_MasterAUX
+SVN Takeover
+
+PilotEngine_M406_Acea_Tordivalle_MasterSY
+SVN Takeover
+
+PilotEngine_M406_Acea_Tordivalle_V4_4
+SVN Takeover for J920 Pilot
+
 
 Release_XT4_V4010x 
 SVN Takeover 
@@ -492,7 +501,7 @@ Update tool for DIA.NE WIN to remove Java dependencies
 
 
 LambdaCtrl Private
-Lambda feedback controller, estimation based on pressure 49°CA before and after top dead center 
+Lambda feedback controller, estimation based on pressure 49Â°CA before and after top dead center 
 
 
 
