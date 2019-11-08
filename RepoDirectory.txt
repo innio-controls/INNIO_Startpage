@@ -5,6 +5,22 @@ Beta Revision 0.1, 04.11.2019: 159 Repositories
 ____________________________________
 
 
+PilotEngine_X304_LCCM_HUDI
+PilotEngine_X364_AWS_Calw
+PilotEngine_X516_BGA_Hoegl_8
+PilotEngine_X692_Waukesha_BR412
+PilotEngine_X693_Alba_Bra
+PilotEngine_X786_BGA_Hoegl_9
+SVN Takeover pilot engine
+
+
+PilotEngine_Y186_Marjamaeki
+SVN Takeover pilot engine
+
+
+PilotEngine_Y557_HKW_Pforzheim 
+SVN Takeover pilot engine
+
 
 TP_TestBench06
 TP Technology internal testbench software
